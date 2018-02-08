@@ -1,0 +1,504 @@
+,d1,d2,sim
+1,"Abnormalities, Multiple",Athetosis,0.044907419
+2,"Abnormalities, Multiple",Attention Deficit Disorder with Hyperactivity,0.448942915
+3,"Abnormalities, Multiple",Autistic Disorder,0.641909991
+4,"Abnormalities, Multiple",Bipolar Disorder,0.640784089
+5,"Abnormalities, Multiple",Brain Diseases,0.230226468
+6,"Abnormalities, Multiple",Cerebral Arterial Diseases,0.201043178
+7,"Abnormalities, Multiple",Cerebral Palsy,0.262063206
+8,"Abnormalities, Multiple",Cerebrovascular Disorders,0.126364265
+9,"Abnormalities, Multiple",Chorea,0.021578861
+10,"Abnormalities, Multiple",Chromosome Aberrations,0.360803462
+11,"Abnormalities, Multiple",Cleft Palate,0.641909991
+12,"Abortion, Spontaneous",Alcoholism,0.443717172
+13,"Abortion, Spontaneous",Arnold-Chiari Malformation,0.705380022
+14,"Abortion, Spontaneous",Arteriosclerosis,0.893991741
+15,"Abortion, Spontaneous",Biliary Tract Neoplasms,1
+16,"Abortion, Spontaneous",Bipolar Disorder,0.347912912
+17,"Abortion, Spontaneous","Cell Transformation, Neoplastic",1
+18,"Abortion, Spontaneous",Coronary Artery Disease,0.173498943
+19,"Abortion, Spontaneous",Coronary Disease,0.195954414
+20,"Acidosis, Renal Tubular",Autoimmune Diseases,0.574527024
+21,Acne Vulgaris,Alopecia,1
+22,Acquired Immunodeficiency Syndrome,Agranulocytosis,0.75514883
+23,Acquired Immunodeficiency Syndrome,AIDS-Related Opportunistic Infections,0.799629067
+24,Acquired Immunodeficiency Syndrome,Bacterial Infections,0.661656459
+25,Acquired Immunodeficiency Syndrome,Carcinoid Tumor,0.372935908
+26,Acquired Immunodeficiency Syndrome,Cognition Disorders,0.101574942
+27,Acute Kidney Injury,Adenocarcinoma,0.344849363
+28,Acute Kidney Injury,Alcoholism,0.440394047
+29,Acute Kidney Injury,"Anemia, Hypochromic",0.49632798
+30,Acute Kidney Injury,Anuria,0.703632034
+31,Acute Kidney Injury,Arteriosclerosis,0.213591113
+32,Acute Kidney Injury,Babesiosis,0.49632798
+33,Acute Kidney Injury,Breast Neoplasms,0.339972295
+34,Acute Kidney Injury,Burns,0.235148515
+35,Acute Kidney Injury,Carbon Tetrachloride Poisoning,0.49632798
+36,Acute Kidney Injury,"Carcinoma 256, Walker",0.344849363
+37,Acute Kidney Injury,"Carcinoma, Squamous Cell",0.344849363
+38,Acute Kidney Injury,Cholangitis,0.49632798
+39,Acute Kidney Injury,Choriocarcinoma,0.49632798
+40,Acute Kidney Injury,Colorectal Neoplasms,0.49632798
+41,Acute Kidney Injury,"Constriction, Pathologic",0.49632798
+42,Adenocarcinoma,Alcoholism,0.629046979
+43,Adenocarcinoma,"Anemia, Hypochromic",0.705380022
+44,Adenocarcinoma,Arteriosclerosis,0.309875359
+45,Adenocarcinoma,Babesiosis,0.705380022
+46,Adenocarcinoma,Breast Neoplasms,0.493227623
+47,Adenocarcinoma,Burns,0.344849363
+48,Adenocarcinoma,Carbon Tetrachloride Poisoning,0.705380022
+49,Adenocarcinoma,"Carcinoma 256, Walker",0.495098039
+50,Adenocarcinoma,"Carcinoma, Squamous Cell",0.495098039
+51,Adenocarcinoma,Choriocarcinoma,0.705380022
+52,Adenocarcinoma,Colonic Neoplasms,0.705380022
+53,Adenocarcinoma,Colorectal Neoplasms,0.705380022
+54,Adenocarcinoma,"Constriction, Pathologic",0.705380022
+55,Adjustment Disorders,Alopecia Areata,0.705380022
+56,Adjustment Disorders,Anorexia Nervosa,0.495098039
+57,Adjustment Disorders,Apnea,0.121243802
+58,Adjustment Disorders,Brain Concussion,0.495098039
+59,Adjustment Disorders,Breast Neoplasms,0.239215397
+60,Adjustment Disorders,"Carcinoma, Small Cell",0.401228032
+61,Adjustment Disorders,Coronary Artery Disease,0.116045123
+62,Adjustment Disorders,Coronary Disease,0.132184628
+63,Adnexal Diseases,"Aneurysm, Dissecting",0.705380022
+64,Adnexal Diseases,Aortic Aneurysm,0.705380022
+65,Agranulocytosis,AIDS-Related Opportunistic Infections,0.705380022
+66,Agranulocytosis,Bacterial Infections,0.706263211
+67,Agraphia,Apraxias,0.667973614
+68,Agraphia,Autistic Disorder,0.495098039
+69,Agraphia,Bipolar Disorder,0.239215397
+70,Agraphia,Cerebral Hemorrhage,1
+71,Agraphia,Cerebrovascular Disorders,0.25777516
+72,Agraphia,Child Behavior Disorders,0.705380022
+73,AIDS-Related Opportunistic Infections,Bacterial Infections,0.747239849
+74,AIDS-Related Opportunistic Infections,Carcinoid Tumor,0.705380022
+75,AIDS-Related Opportunistic Infections,Cognition Disorders,0.221041287
+76,Airway Obstruction,Angina Pectoris,0.027579849
+77,Airway Obstruction,Asbestosis,0.705380022
+78,Airway Obstruction,Asthma,0.864609172
+79,Airway Obstruction,"Carcinoma, Non-Small-Cell Lung",0.705380022
+80,Airway Obstruction,"Carcinoma, Squamous Cell",0.495098039
+81,Alcohol Amnestic Disorder,Alzheimer Disease,0.403238919
+82,Alcohol Amnestic Disorder,Amnesia,0.980544279
+83,Alcohol Amnestic Disorder,Brain Neoplasms,0.37239221
+84,Alcoholism,"Anemia, Hypochromic",0.893991741
+85,Alcoholism,Arnold-Chiari Malformation,0.309875359
+86,Alcoholism,Arteriosclerosis,0.798237023
+87,Alcoholism,Babesiosis,0.893991741
+88,Alcoholism,Biliary Tract Neoplasms,0.443717172
+89,Alcoholism,Bipolar Disorder,0.146542116
+90,Alcoholism,Breast Neoplasms,0.62826035
+91,Alcoholism,Burns,0.440394047
+92,Alcoholism,Carbon Tetrachloride Poisoning,0.893991741
+93,Alcoholism,"Carcinoma 256, Walker",0.629046979
+94,Alcoholism,"Carcinoma, Squamous Cell",0.629046979
+95,Alcoholism,"Cell Transformation, Neoplastic",0.443717172
+96,Alcoholism,Choriocarcinoma,0.893991741
+97,Alcoholism,Colorectal Neoplasms,0.893991741
+98,Alcoholism,"Constriction, Pathologic",0.893991741
+99,Alcoholism,Coronary Artery Disease,0.068971931
+100,Alcoholism,Coronary Disease,0.079314924
+101,Alopecia Areata,Anorexia Nervosa,0.705380022
+102,Alopecia Areata,Apnea,0.17923428
+103,Alopecia Areata,Brain Concussion,0.705380022
+104,Alopecia Areata,Coronary Artery Disease,0.173498943
+105,Alopecia Areata,Coronary Disease,0.195954414
+106,Alzheimer Disease,Amnesia,0.393405063
+107,Alzheimer Disease,Anomia,0.403238919
+108,Alzheimer Disease,Aphasia,0.057159016
+109,Alzheimer Disease,"Brain Damage, Chronic",0.219916887
+110,Alzheimer Disease,Brain Injuries,0.219916887
+111,Alzheimer Disease,Brain Neoplasms,0.12684626
+112,Alzheimer Disease,Burns,0.184831115
+113,Alzheimer Disease,Cognition Disorders,0.104207409
+114,Amaurosis Fugax,Carotid Artery Diseases,0.49632798
+115,Amaurosis Fugax,Carotid Stenosis,1
+116,Amaurosis Fugax,Cerebral Infarction,0.157816022
+117,Amnesia,"Anemia, Sickle Cell",0.191512554
+118,Amnesia,"Arthritis, Experimental",0.191512554
+119,Amnesia,"Arthritis, Rheumatoid",0.131678792
+120,Amnesia,"Arthropathy, Neurogenic",0.191512554
+121,Amnesia,Bone Cysts,0.191512554
+122,Amnesia,Bone Neoplasms,0.131678792
+123,Amnesia,Brain Neoplasms,0.362932258
+124,Amnesia,Breast Neoplasms,0.058051118
+125,Amnesia,Bursitis,0.191512554
+126,Amnesia,"Carcinoma, Bronchogenic",0.131678792
+127,Amnesia,Catalepsy,0.055191872
+128,Amnesia,"Cholesteatoma, Middle Ear",0.080665747
+129,Amyotrophic Lateral Sclerosis,Ataxia,0.146206873
+130,Amyotrophic Lateral Sclerosis,Autonomic Nervous System Diseases,0.165075444
+131,Amyotrophic Lateral Sclerosis,Brain Diseases,0.293372972
+132,Amyotrophic Lateral Sclerosis,Cerebral Palsy,0.33375391
+133,Amyotrophic Lateral Sclerosis,Cerebrovascular Disorders,0.205607899
+134,Amyotrophic Lateral Sclerosis,Coma,0.10096459
+135,Anaphylaxis,Anemia,1
+136,Anaphylaxis,Apnea,0.17923428
+137,Anaphylaxis,Burns,0.49632798
+138,Anaphylaxis,Coronary Artery Disease,0.081855912
+139,Anaphylaxis,Coronary Disease,0.093240396
+140,Anemia,Apnea,0.17923428
+141,Anemia,Burns,0.49632798
+142,Anemia,Coronary Artery Disease,0.081855912
+143,Anemia,Coronary Disease,0.093240396
+144,"Anemia, Aplastic","Arthritis, Rheumatoid",0.705380022
+145,"Anemia, Aplastic",Asthma,0.403919224
+146,"Anemia, Aplastic",Bronchogenic Cyst,0.705380022
+147,"Anemia, Hypochromic",Arteriosclerosis,0.443717172
+148,"Anemia, Hypochromic",Babesiosis,1
+149,"Anemia, Hypochromic",Breast Neoplasms,0.706263211
+150,"Anemia, Hypochromic",Burns,0.49632798
+151,"Anemia, Hypochromic",Carbon Tetrachloride Poisoning,1
+152,"Anemia, Hypochromic","Carcinoma 256, Walker",0.705380022
+153,"Anemia, Hypochromic","Carcinoma, Squamous Cell",0.705380022
+154,"Anemia, Hypochromic",Choriocarcinoma,1
+155,"Anemia, Hypochromic",Colorectal Neoplasms,1
+156,"Anemia, Hypochromic","Constriction, Pathologic",1
+157,"Anemia, Pernicious",Autoimmune Diseases,0.574527024
+158,"Anemia, Sickle Cell","Arthritis, Experimental",1
+159,"Anemia, Sickle Cell","Arthritis, Rheumatoid",0.705380022
+160,"Anemia, Sickle Cell","Arthropathy, Neurogenic",1
+161,"Anemia, Sickle Cell",Bone Cysts,1
+162,"Anemia, Sickle Cell",Bone Neoplasms,0.705380022
+163,"Anemia, Sickle Cell",Breast Neoplasms,0.347912912
+164,"Anemia, Sickle Cell",Bursitis,1
+165,"Anemia, Sickle Cell","Carcinoma, Bronchogenic",0.705380022
+166,"Anemia, Sickle Cell",Catalepsy,0.312057046
+167,"Anemia, Sickle Cell","Cholesteatoma, Middle Ear",0.443717172
+168,Aneurysm,Blepharoptosis,0.574527024
+169,Aneurysm,Carotid Artery Diseases,0.27655875
+170,Aneurysm,Cholestasis,0.574527024
+171,"Aneurysm, Dissecting",Angina Pectoris,0.027579849
+172,"Aneurysm, Dissecting",Aortic Aneurysm,1
+173,"Aneurysm, Dissecting","Arrhythmias, Cardiac",0.401228032
+174,"Aneurysm, Dissecting",Barotrauma,0.705380022
+175,"Aneurysm, Dissecting",Coronary Artery Disease,0.051085081
+176,"Aneurysm, Dissecting",Coronary Disease,0.059377052
+177,Angina Pectoris,"Angina, Unstable",0.167834857
+178,Angina Pectoris,Aortic Aneurysm,0.027579849
+179,Angina Pectoris,"Arrhythmias, Cardiac",0.048393547
+180,Angina Pectoris,Arterio-Arterial Fistula,0.996302027
+181,Angina Pectoris,Asthma,0.011363887
+182,Angina Pectoris,Barotrauma,0.044501653
+183,Angina Pectoris,"Carcinoma, Non-Small-Cell Lung",0.044501653
+184,Angina Pectoris,"Carcinoma, Squamous Cell",0.027579849
+185,Angina Pectoris,"Cardiac Complexes, Premature",0.737760957
+186,Angina Pectoris,Coronary Aneurysm,0.996302027
+187,Angina Pectoris,Coronary Artery Disease,0.920762371
+188,Angina Pectoris,Coronary Disease,0.926181108
+189,"Angina Pectoris, Variant",Coronary Artery Disease,0.081855912
+190,"Angina, Unstable","Arrhythmias, Cardiac",0.569379276
+191,"Angina, Unstable",Arterio-Arterial Fistula,0.119265981
+192,"Angina, Unstable","Cardiac Complexes, Premature",0.787897791
+193,"Angina, Unstable",Coronary Aneurysm,0.119265981
+194,"Angina, Unstable",Coronary Artery Disease,0.375775438
+195,"Angina, Unstable",Coronary Disease,0.308112164
+196,Anorexia Nervosa,Apnea,0.121243802
+197,Anorexia Nervosa,Brain Concussion,0.495098039
+198,Anorexia Nervosa,Coronary Artery Disease,0.116045123
+199,Anorexia Nervosa,Coronary Disease,0.132184628
+200,Anuria,Cholangitis,0.705380022
+201,Anxiety Disorders,Ataxia,0.583192008
+202,Anxiety Disorders,Cerebellar Diseases,0.401228032
+203,Anxiety Disorders,Cerebral Infarction,0.223731914
+204,Aortic Aneurysm,"Arrhythmias, Cardiac",0.401228032
+205,Aortic Aneurysm,Barotrauma,0.705380022
+206,Aortic Aneurysm,Coronary Artery Disease,0.051085081
+207,Aortic Aneurysm,Coronary Disease,0.059377052
+208,Aphasia,"Aphasia, Wernicke",0.785505059
+209,Aphasia,"Brain Damage, Chronic",0.094487893
+210,Aphasia,Brain Ischemia,0.652652807
+211,Aphasia,Brain Neoplasms,0.409406029
+212,Aphasia,Cerebral Infarction,0.329763226
+213,Aphasia,Cerebral Palsy,0.034835021
+214,"Aphasia, Wernicke",Brain Ischemia,0.495098039
+215,"Aphasia, Wernicke",Brain Neoplasms,0.254680439
+216,"Aphasia, Wernicke",Cerebral Infarction,0.223731914
+217,Apnea,Brain Concussion,0.121243802
+218,Apnea,Brain Death,0.928924871
+219,Apnea,Brain Neoplasms,0.049910539
+220,Apnea,Burns,0.077906738
+221,Apnea,Common Cold,0.928924871
+222,Apnea,Coronary Artery Disease,0.034848993
+223,Apnea,Coronary Disease,0.041569876
+224,Apraxias,Autistic Disorder,0.667973614
+225,Apraxias,Bipolar Disorder,0.440724326
+226,Apraxias,Cerebral Hemorrhage,0.667973614
+227,Apraxias,Cerebrovascular Disorders,0.351379009
+228,Apraxias,Child Behavior Disorders,0.948529833
+229,Apraxias,Confusion,0.312057046
+230,Arnold-Chiari Malformation,Arteriosclerosis,0.629046979
+231,Arnold-Chiari Malformation,Biliary Tract Neoplasms,0.705380022
+232,Arnold-Chiari Malformation,Bipolar Disorder,0.239215397
+233,Arnold-Chiari Malformation,Brain Diseases,0.174521223
+234,Arnold-Chiari Malformation,"Cell Transformation, Neoplastic",0.705380022
+235,Arnold-Chiari Malformation,Cerebellar Diseases,0.401228032
+236,Arnold-Chiari Malformation,Cerebral Infarction,0.100499897
+237,Arnold-Chiari Malformation,Cognition Disorders,0.221041287
+238,Arnold-Chiari Malformation,Coronary Artery Disease,0.116045123
+239,Arnold-Chiari Malformation,Coronary Disease,0.132184628
+240,"Arrhythmias, Cardiac",Barotrauma,0.574527024
+241,"Arrhythmias, Cardiac","Cardiac Complexes, Premature",0.401228032
+242,"Arrhythmias, Cardiac",Coronary Artery Disease,0.195645434
+243,"Arrhythmias, Cardiac",Coronary Disease,0.162290705
+244,Arterial Occlusive Diseases,Athletic Injuries,0.49632798
+245,Arterial Occlusive Diseases,Autonomic Nervous System Diseases,0.137013481
+246,Arterial Occlusive Diseases,Bacterial Infections,0.15947154
+247,Arterial Occlusive Diseases,Coronary Artery Disease,0.026441463
+248,Arterial Occlusive Diseases,Coronary Disease,0.032649543
+249,Arterio-Arterial Fistula,"Cardiac Complexes, Premature",0.705380022
+250,Arterio-Arterial Fistula,Coronary Aneurysm,1
+251,Arterio-Arterial Fistula,Coronary Artery Disease,0.906643196
+252,Arterio-Arterial Fistula,Coronary Disease,0.914952544
+253,Arteriosclerosis,Babesiosis,0.443717172
+254,Arteriosclerosis,Biliary Tract Neoplasms,0.893991741
+255,Arteriosclerosis,Bipolar Disorder,0.307114861
+256,Arteriosclerosis,Breast Neoplasms,0.307114861
+257,Arteriosclerosis,Burns,0.213591113
+258,Arteriosclerosis,Carbon Tetrachloride Poisoning,0.443717172
+259,Arteriosclerosis,"Carcinoma 256, Walker",0.309875359
+260,Arteriosclerosis,"Carcinoma, Squamous Cell",0.309875359
+261,Arteriosclerosis,"Cell Transformation, Neoplastic",0.893991741
+262,Arteriosclerosis,Choriocarcinoma,0.443717172
+263,Arteriosclerosis,Colorectal Neoplasms,0.443717172
+264,Arteriosclerosis,"Constriction, Pathologic",0.443717172
+265,Arteriosclerosis,Coronary Artery Disease,0.151100358
+266,Arteriosclerosis,Coronary Disease,0.171364921
+267,Arteriovenous Malformations,Bronchogenic Cyst,0.705380022
+268,"Arthritis, Experimental","Arthritis, Rheumatoid",0.705380022
+269,"Arthritis, Experimental","Arthropathy, Neurogenic",1
+270,"Arthritis, Experimental",Bone Cysts,1
+271,"Arthritis, Experimental",Bone Neoplasms,0.705380022
+272,"Arthritis, Experimental",Breast Neoplasms,0.347912912
+273,"Arthritis, Experimental",Bursitis,1
+274,"Arthritis, Experimental","Carcinoma, Bronchogenic",0.705380022
+275,"Arthritis, Experimental",Catalepsy,0.312057046
+276,"Arthritis, Experimental","Cholesteatoma, Middle Ear",0.443717172
+277,"Arthritis, Rheumatoid","Arthropathy, Neurogenic",0.705380022
+278,"Arthritis, Rheumatoid",Asthma,0.280643633
+279,"Arthritis, Rheumatoid",Bone Cysts,0.705380022
+280,"Arthritis, Rheumatoid",Bone Neoplasms,0.495098039
+281,"Arthritis, Rheumatoid",Breast Neoplasms,0.239215397
+282,"Arthritis, Rheumatoid",Bronchogenic Cyst,0.495098039
+283,"Arthritis, Rheumatoid",Bursitis,0.705380022
+284,"Arthritis, Rheumatoid","Carcinoma, Bronchogenic",0.495098039
+285,"Arthritis, Rheumatoid",Catalepsy,0.216817665
+286,"Arthritis, Rheumatoid","Cholesteatoma, Middle Ear",0.309875359
+287,"Arthropathy, Neurogenic",Bone Cysts,1
+288,"Arthropathy, Neurogenic",Bone Neoplasms,0.705380022
+289,"Arthropathy, Neurogenic",Breast Neoplasms,0.347912912
+290,"Arthropathy, Neurogenic",Bursitis,1
+291,"Arthropathy, Neurogenic","Carcinoma, Bronchogenic",0.705380022
+292,"Arthropathy, Neurogenic",Catalepsy,0.312057046
+293,"Arthropathy, Neurogenic","Cholesteatoma, Middle Ear",0.443717172
+294,Articulation Disorders,Cerebral Palsy,0.294349685
+295,Asbestosis,Asthma,0.815836849
+296,Asthma,Bronchogenic Cyst,0.280643633
+297,Asthma,"Carcinoma, Non-Small-Cell Lung",0.403919224
+298,Asthma,"Carcinoma, Squamous Cell",0.280643633
+299,Ataxia,Autonomic Nervous System Diseases,0.065481059
+300,Ataxia,Brain Neoplasms,0.082040595
+301,Ataxia,Cerebellar Ataxia,0.052783383
+302,Ataxia,Cerebellar Diseases,0.471813531
+303,Ataxia,Cerebral Infarction,0.45412231
+304,Ataxia,Cerebral Palsy,0.14561443
+305,Ataxia,Cerebrovascular Disorders,0.195326484
+306,Athetosis,Autoimmune Diseases,0.354880651
+307,Athetosis,Bacteroides Infections,0.310490138
+308,Athetosis,Brain Abscess,0.310490138
+309,Athetosis,Brain Diseases,0.148286903
+310,Athetosis,Brain Neoplasms,0.097670416
+311,Athetosis,Cerebral Palsy,0.268193427
+312,Athetosis,Chorea,0.90753882
+313,Athetosis,Conversion Disorder,0.310490138
+314,Athletic Injuries,Autonomic Nervous System Diseases,0.309533737
+315,Attention Deficit Disorder with Hyperactivity,Autistic Disorder,0.344849363
+316,Attention Deficit Disorder with Hyperactivity,Bipolar Disorder,0.339972295
+317,Attention Deficit Disorder with Hyperactivity,Borderline Personality Disorder,0.49632798
+318,Attention Deficit Disorder with Hyperactivity,Brain Diseases,0.110679654
+319,Attention Deficit Disorder with Hyperactivity,Cerebral Palsy,0.127943292
+320,Attention Deficit Disorder with Hyperactivity,Cleft Palate,0.344849363
+321,Autistic Disorder,Bipolar Disorder,0.747239849
+322,Autistic Disorder,Brain Diseases,0.174521223
+323,Autistic Disorder,Cerebral Hemorrhage,0.495098039
+324,Autistic Disorder,Cerebral Palsy,0.199114115
+325,Autistic Disorder,Cerebrovascular Disorders,0.25777516
+326,Autistic Disorder,Child Behavior Disorders,0.705380022
+327,Autistic Disorder,Cleft Palate,0.495098039
+328,Autoimmune Diseases,Chorea,0.51185829
+329,Autonomic Nervous System Diseases,Brain Diseases,0.140839087
+330,Autonomic Nervous System Diseases,Carotid Artery Diseases,0.461436205
+331,Autonomic Nervous System Diseases,Cerebral Arterial Diseases,0.351919078
+332,Autonomic Nervous System Diseases,Cerebrovascular Disorders,0.09870585
+333,Autonomic Nervous System Diseases,Coma,0.045218588
+334,Babesiosis,Breast Neoplasms,0.706263211
+335,Babesiosis,Burns,0.49632798
+336,Babesiosis,Carbon Tetrachloride Poisoning,1
+337,Babesiosis,"Carcinoma 256, Walker",0.705380022
+338,Babesiosis,"Carcinoma, Squamous Cell",0.705380022
+339,Babesiosis,Choriocarcinoma,1
+340,Babesiosis,Colorectal Neoplasms,1
+341,Babesiosis,"Constriction, Pathologic",1
+342,Bacterial Infections,Bradycardia,0.347912912
+343,Bacterial Infections,Breast Neoplasms,0.23325062
+344,Bacterial Infections,"Breast Neoplasms, Male",0.493227623
+345,Bacterial Infections,Carcinoid Tumor,0.347912912
+346,Bacterial Infections,"Carcinoma, Small Cell",0.397653727
+347,Bacterial Infections,Cognition Disorders,0.089909732
+348,Bacteroides Infections,Brain Abscess,1
+349,Bacteroides Infections,Brain Diseases,0.532126034
+350,Bacteroides Infections,Brain Neoplasms,0.37239221
+351,Bacteroides Infections,Cerebral Palsy,0.294349685
+352,Bacteroides Infections,Chorea,0.173279326
+353,Bacteroides Infections,Conversion Disorder,1
+354,Barotrauma,Coronary Artery Disease,0.081855912
+355,Barotrauma,Coronary Disease,0.093240396
+356,Biliary Tract Neoplasms,Bipolar Disorder,0.347912912
+357,Biliary Tract Neoplasms,"Cell Transformation, Neoplastic",1
+358,Biliary Tract Neoplasms,Coronary Artery Disease,0.173498943
+359,Biliary Tract Neoplasms,Coronary Disease,0.195954414
+360,Bipolar Disorder,Brain Diseases,0.166159635
+361,Bipolar Disorder,Brain Ischemia,0.239215397
+362,Bipolar Disorder,"Cell Transformation, Neoplastic",0.347912912
+363,Bipolar Disorder,Cerebral Hemorrhage,0.239215397
+364,Bipolar Disorder,Cerebral Palsy,0.190754498
+365,Bipolar Disorder,Cerebrovascular Disorders,0.116451537
+366,Bipolar Disorder,Child Behavior Disorders,0.347912912
+367,Bipolar Disorder,Cleft Palate,0.493227623
+368,Bipolar Disorder,Cognition Disorders,0.089909732
+369,Bipolar Disorder,Confusion,0.347912912
+370,Bipolar Disorder,Coronary Artery Disease,0.044420626
+371,Bipolar Disorder,Coronary Disease,0.052987469
+372,"Blindness, Cortical",Celiac Disease,1
+373,"Blindness, Cortical",Cerebral Infarction,0.157816022
+374,Bone Cysts,Bone Neoplasms,0.705380022
+375,Bone Cysts,Breast Neoplasms,0.347912912
+376,Bone Cysts,Bursitis,1
+377,Bone Cysts,"Carcinoma, Bronchogenic",0.705380022
+378,Bone Cysts,Catalepsy,0.312057046
+379,Bone Cysts,"Cholesteatoma, Middle Ear",0.443717172
+380,Bone Neoplasms,Breast Neoplasms,0.239215397
+381,Bone Neoplasms,Bursitis,0.705380022
+382,Bone Neoplasms,"Carcinoma, Bronchogenic",1
+383,Bone Neoplasms,Catalepsy,0.216817665
+384,Bone Neoplasms,"Cholesteatoma, Middle Ear",0.309875359
+385,Bradycardia,Breast Neoplasms,0.347912912
+386,Bradycardia,"Breast Neoplasms, Male",0.705380022
+387,Bradycardia,"Carcinoma, Small Cell",0.574527024
+388,Brain Abscess,Brain Diseases,0.532126034
+389,Brain Abscess,Brain Neoplasms,0.37239221
+390,Brain Abscess,Cerebral Palsy,0.294349685
+391,Brain Abscess,Chorea,0.173279326
+392,Brain Abscess,Conversion Disorder,1
+393,Brain Concussion,Coronary Artery Disease,0.116045123
+394,Brain Concussion,Coronary Disease,0.132184628
+395,"Brain Damage, Chronic",Brain Injuries,0.661740558
+396,"Brain Damage, Chronic",Brain Neoplasms,0.200857255
+397,"Brain Damage, Chronic",Cerebral Palsy,0.155173896
+398,"Brain Damage, Chronic",Cognition Disorders,0.172262211
+399,Brain Death,Common Cold,1
+400,Brain Diseases,Brain Infarction,0.367808168
+401,Brain Diseases,Brain Neoplasms,0.173666452
+402,Brain Diseases,Cerebellar Diseases,0.135166605
+403,Brain Diseases,Cerebral Infarction,0.098015683
+404,Brain Diseases,Cerebral Palsy,0.214078763
+405,Brain Diseases,Cerebrovascular Disorders,0.18225902
+406,Brain Diseases,Chorea,0.076856165
+407,Brain Diseases,Cleft Palate,0.174521223
+408,Brain Diseases,Cognition Disorders,0.237653897
+409,Brain Diseases,Coma,0.350207546
+410,Brain Diseases,Conversion Disorder,0.532126034
+411,Brain Infarction,Cognition Disorders,0.463246101
+412,Brain Injuries,Cognition Disorders,0.172262211
+413,Brain Ischemia,Brain Neoplasms,0.254680439
+414,Brain Ischemia,Cerebral Infarction,0.223731914
+415,Brain Ischemia,Cognition Disorders,0.221041287
+416,Brain Neoplasms,Cerebellar Ataxia,0.07251318
+417,Brain Neoplasms,Cerebral Infarction,0.357097139
+418,Brain Neoplasms,Cerebral Palsy,0.200043363
+419,Brain Neoplasms,Cerebrospinal Fluid Rhinorrhea,0.37239221
+420,Brain Neoplasms,Cerebrovascular Disorders,0.26833719
+421,Brain Neoplasms,Chordoma,0.37239221
+422,Brain Neoplasms,Chorea,0.04825229
+423,Brain Neoplasms,Conversion Disorder,0.37239221
+424,Breast Neoplasms,"Breast Neoplasms, Male",0.493227623
+425,Breast Neoplasms,Burns,0.339972295
+426,Breast Neoplasms,Bursitis,0.347912912
+427,Breast Neoplasms,Carbon Tetrachloride Poisoning,0.706263211
+428,Breast Neoplasms,"Carcinoma 256, Walker",0.493227623
+429,Breast Neoplasms,"Carcinoma, Bronchogenic",0.239215397
+430,Breast Neoplasms,"Carcinoma, Small Cell",0.605564051
+431,Breast Neoplasms,"Carcinoma, Squamous Cell",0.493227623
+432,Breast Neoplasms,Catalepsy,0.100264784
+433,Breast Neoplasms,"Cholesteatoma, Middle Ear",0.146542116
+434,Breast Neoplasms,Choriocarcinoma,0.706263211
+435,Breast Neoplasms,Colorectal Neoplasms,0.706263211
+436,Breast Neoplasms,"Constriction, Pathologic",0.706263211
+437,"Breast Neoplasms, Male","Carcinoma, Small Cell",0.814492905
+438,Burns,Carbon Tetrachloride Poisoning,0.49632798
+439,Burns,"Carcinoma 256, Walker",0.344849363
+440,Burns,"Carcinoma, Squamous Cell",0.344849363
+441,Burns,Choriocarcinoma,0.49632798
+442,Burns,Colorectal Neoplasms,0.49632798
+443,Burns,"Constriction, Pathologic",0.49632798
+444,Burns,Coronary Artery Disease,0.026441463
+445,Burns,Coronary Disease,0.032649543
+446,Bursitis,"Carcinoma, Bronchogenic",0.705380022
+447,Bursitis,Catalepsy,0.312057046
+448,Bursitis,"Cholesteatoma, Middle Ear",0.443717172
+449,Carbon Tetrachloride Poisoning,"Carcinoma 256, Walker",0.705380022
+450,Carbon Tetrachloride Poisoning,"Carcinoma, Squamous Cell",0.705380022
+451,Carbon Tetrachloride Poisoning,Choriocarcinoma,1
+452,Carbon Tetrachloride Poisoning,Colorectal Neoplasms,1
+453,Carbon Tetrachloride Poisoning,"Constriction, Pathologic",1
+454,Carcinoid Tumor,Cognition Disorders,0.326764545
+455,"Carcinoma 256, Walker","Carcinoma, Squamous Cell",0.495098039
+456,"Carcinoma 256, Walker",Choriocarcinoma,0.705380022
+457,"Carcinoma 256, Walker",Colorectal Neoplasms,0.705380022
+458,"Carcinoma 256, Walker","Constriction, Pathologic",0.705380022
+459,"Carcinoma, Bronchogenic",Catalepsy,0.216817665
+460,"Carcinoma, Bronchogenic","Cholesteatoma, Middle Ear",0.309875359
+461,"Carcinoma, Non-Small-Cell Lung","Carcinoma, Squamous Cell",0.705380022
+462,"Carcinoma, Squamous Cell",Choriocarcinoma,0.705380022
+463,"Carcinoma, Squamous Cell",Colorectal Neoplasms,0.705380022
+464,"Carcinoma, Squamous Cell","Constriction, Pathologic",0.705380022
+465,"Cardiac Complexes, Premature",Coronary Aneurysm,0.705380022
+466,"Cardiac Complexes, Premature",Coronary Artery Disease,0.830605584
+467,"Cardiac Complexes, Premature",Coronary Disease,0.787452808
+468,Carotid Artery Diseases,Carotid Stenosis,0.49632798
+469,Carotid Artery Diseases,Cerebral Arterial Diseases,0.27655875
+470,Carotid Artery Diseases,Cerebral Infarction,0.055261681
+471,Carotid Stenosis,Cerebral Infarction,0.157816022
+472,Catalepsy,"Cholesteatoma, Middle Ear",0.134291465
+473,Catatonia,Cognition Disorders,0.463246101
+474,Causalgia,Cluster Headache,1
+475,Celiac Disease,Cerebral Infarction,0.157816022
+476,"Cell Transformation, Neoplastic",Coronary Artery Disease,0.173498943
+477,"Cell Transformation, Neoplastic",Coronary Disease,0.195954414
+478,Cerebellar Ataxia,Cerebral Infarction,0.305886592
+479,Cerebellar Ataxia,Cerebrovascular Disorders,0.167466175
+480,Cerebellar Diseases,Cerebral Infarction,0.274688597
+481,Cerebellar Diseases,Cognition Disorders,0.172262211
+482,Cerebral Arterial Diseases,Cerebrovascular Disorders,0.205607899
+483,Cerebral Arterial Diseases,Chromosome Aberrations,0.574527024
+484,Cerebral Hemorrhage,Cerebrovascular Disorders,0.25777516
+485,Cerebral Hemorrhage,Child Behavior Disorders,0.705380022
+486,Cerebral Infarction,Cerebrovascular Disorders,0.498508936
+487,Cerebral Infarction,Cognition Disorders,0.010043847
+488,Cerebral Infarction,Coma,0.145977144
+489,Cerebral Palsy,Chorea,0.144679174
+490,Cerebral Palsy,Cleft Palate,0.199114115
+491,Cerebral Palsy,Conversion Disorder,0.294349685
+492,Cerebrospinal Fluid Rhinorrhea,Chordoma,1
+493,Cerebrovascular Disorders,Child Behavior Disorders,0.372935908
+494,Cerebrovascular Disorders,Chromosome Aberrations,0.372935908
+495,Cerebrovascular Disorders,Coma,0.061181087
+496,Chorea,Conversion Disorder,0.173279326
+497,Choriocarcinoma,Colorectal Neoplasms,1
+498,Choriocarcinoma,"Constriction, Pathologic",1
+499,Cleft Lip,Cleft Palate,0.705380022
+500,Colorectal Neoplasms,"Constriction, Pathologic",1
+501,Coronary Aneurysm,Coronary Artery Disease,0.906643196
+502,Coronary Aneurysm,Coronary Disease,0.914952544
+503,Coronary Artery Disease,Coronary Disease,0.992664119
